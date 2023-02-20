@@ -17,3 +17,8 @@ This Project Consits of building an inventory database for a corporate (IT devic
     - Audit should be able to read inventory
 3)  IT User should be able to login
     -  Preform CRED within the inventory
+    
+# References Links:
+Miro: https://miro.com/app/board/uXjVPlNDak4=/
+Figma: https://www.figma.com/file/M0AufBvigSr11szUvIAx1j/Untitled?node-id=0%3A1&t=Ey0rygTiVxzHOdtR-0
+
